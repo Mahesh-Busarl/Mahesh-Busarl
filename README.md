@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mahesh.Currently, I am learning coding and other stuffs.
+I am Mahesh.Currently, I am learning coding and I am very passionate about learning new things.
 <!--
 **Mahesh-Busarl/Mahesh-Busarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
